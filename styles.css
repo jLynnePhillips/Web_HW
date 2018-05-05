@@ -1,0 +1,7 @@
+.main_image {
+  float: left;
+  width: 40%;
+  shape-outside: output_latitude_vs_temperature.png
+  shape-margin:20px;
+  margin-right: 20px;
+}
